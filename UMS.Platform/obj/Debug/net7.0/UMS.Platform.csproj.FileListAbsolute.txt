@@ -1,0 +1,12 @@
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\bin\Debug\net7.0\UMS.Platform.deps.json
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\bin\Debug\net7.0\UMS.Platform.dll
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\bin\Debug\net7.0\UMS.Platform.pdb
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.csproj.AssemblyReference.cache
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.AssemblyInfoInputs.cache
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.AssemblyInfo.cs
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.csproj.CoreCompileInputs.cache
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.dll
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\refint\UMS.Platform.dll
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\UMS.Platform.pdb
+C:\Users\phong.nguyen\Desktop\project\HUTT\UniversityManagement\UMS.Platform\obj\Debug\net7.0\ref\UMS.Platform.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6UmXLQzlbVETL3wR1cdFwBlnK+Zk2dmFtoYPN9qpv2I=",
+  "Source": "UMS.Services",
+  "BasePath": "_content/UMS.Services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
